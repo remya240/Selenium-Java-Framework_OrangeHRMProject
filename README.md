@@ -1,0 +1,1 @@
+Selenium-Java-Framework_OrangeHRMProject is a scalable test automation framework built using Selenium WebDriver, Java, TestNG, and Maven to automate the OrangeHRM web application, following the Page Object Model (POM) design pattern.
